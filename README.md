@@ -1,5 +1,6 @@
 ![](https://i.imgur.com/PlPJGYR.png)
 ## ⚡ Technologies I know
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -9,6 +10,9 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fariha-rahman721&bg_color=transparent&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
 
 ## Contact with me via -
 <p align="center">
