@@ -24,7 +24,12 @@
 
 
 ## Stats
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fariha-rahman721&bg_color=transparent&color=58a6ff&line=58a6ff&point=ffffff&hide_border=true" />
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=fariha-rahman721&theme=react&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fariha-rahman721&show_icons=true&theme=react&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fariha-rahman721&theme=react-dark)
 
 
 ## Contact with me via -
